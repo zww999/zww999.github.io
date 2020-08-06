@@ -8,8 +8,8 @@ feature_image: "https://huffordlab.github.io/pictures/maize_genetics.jpg"
 <b><font size = "6" color="maroon">Evolutionary genomics of maize and its wild relatives</font></b>
 
 Contact:<br>
-Matthew Hufford<br>
-Iowa State University<br>
+中国农业科学院基因组研究所<br>
+周微<br>
 Department of Ecology, Evolution, and Organismal Biology<br>
 339A Bessey Hall<br>
 Ames, IA 50011<br>
