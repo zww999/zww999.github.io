@@ -1,0 +1,8 @@
+1、远程监督代码见RemoteSupervision文件夹
+2、用序列标注的深度学习模型来抽取medicine的代码见MedicineNER文件夹
+3、人工整理的数据集为data文件夹下面的药典2020_new.txt
+
+
+4、我跟你说的比较简单点的方法是extract.py，直接运行main.py就好。你想重新跑一遍的时候也只需要将这个代码重新跑一遍就好
+
+5、提取的csv文件见data/extract.csv
